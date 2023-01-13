@@ -16,6 +16,7 @@ class Graph extends Component<IProps, {}> {
   props: any;
 
   render() {
+    
     return React.createElement('perspective-viewer');
   }
 
